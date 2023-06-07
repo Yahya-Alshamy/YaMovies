@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YaMovies/static/css/main.334bdeb1.css",
-    "main.js": "/YaMovies/static/js/main.9b8f80b3.js",
+    "main.js": "/YaMovies/static/js/main.06bda486.js",
     "index.html": "/YaMovies/index.html",
     "static/media/search.svg": "/YaMovies/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.334bdeb1.css.map": "/YaMovies/static/css/main.334bdeb1.css.map",
-    "main.9b8f80b3.js.map": "/YaMovies/static/js/main.9b8f80b3.js.map"
+    "main.06bda486.js.map": "/YaMovies/static/js/main.06bda486.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.9b8f80b3.js"
+    "static/js/main.06bda486.js"
   ]
 }
